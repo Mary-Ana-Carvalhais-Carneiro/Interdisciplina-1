@@ -44,6 +44,9 @@ QUAN_UX/Figma (prototipos)
 
 formulário:https://docs.google.com/forms/d/e/1FAIpQLSfYbl65s8ald_SqOTDahf0aVYFBCj7OLqQEOeL2nx4PAUVIOg/viewform
 
+FRAMES:
+na wiki  em objetivo do produto
+
 
 
 
