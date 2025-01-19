@@ -17,10 +17,13 @@ https://g1.globo.com/sp/sorocaba-jundiai/tem-mais-pet/noticia/2025/01/16/adocao-
 
 #Pontos principais do projeto:
 
-*cuidado aos animais
-*evitar doeças
-*(todos os animais merecem carinho e lares)
-*Atualmente planejado apenas para o municipio de Pinhais
+cuidado aos animais
+
+evitar doeças
+
+(todos os animais merecem carinho e lares)
+
+Atualmente planejado apenas para o municipio de Pinhais
 
 
 
@@ -28,12 +31,18 @@ https://g1.globo.com/sp/sorocaba-jundiai/tem-mais-pet/noticia/2025/01/16/adocao-
 
 #Tecnologias que serão usadas para a criação do site:
 
-*HTML
-*CSS
-*JS
-*PHP
-*mysql workbench
-*QUAN_UX/Figma (prototipos)
+HTML
+CSS
+JS
+PHP
+mysql workbench
+QUAN_UX/Figma (prototipos)
+
+#outros:
+
+formulário:https://docs.google.com/forms/d/e/1FAIpQLSfYbl65s8ald_SqOTDahf0aVYFBCj7OLqQEOeL2nx4PAUVIOg/viewform
+
+frames:https://github.com/Mary-Ana-Carvalhais-Carneiro/Interdisciplina-1.wiki.git
 
 
 
