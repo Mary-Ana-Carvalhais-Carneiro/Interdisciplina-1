@@ -15,6 +15,8 @@ https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2024/05/16/amigo-pet-aban
 https://g1.globo.com/sp/sorocaba-jundiai/tem-mais-pet/noticia/2025/01/16/adocao-responsavel-garante-vida-digna-a-animais-vitimas-de-maus-tratos-e-abandono-no-interior-de-sp.ghtml
 
 
+
+
 #Pontos principais do projeto:
 
 cuidado aos animais
@@ -42,7 +44,8 @@ QUAN_UX/Figma (prototipos)
 
 formulário:https://docs.google.com/forms/d/e/1FAIpQLSfYbl65s8ald_SqOTDahf0aVYFBCj7OLqQEOeL2nx4PAUVIOg/viewform
 
-frames:https://github.com/Mary-Ana-Carvalhais-Carneiro/Interdisciplina-1.wiki.git
+frames:
+:https://github.com/Mary-Ana-Carvalhais-Carneiro/Interdisciplina-1.wiki.git
 
 
 
