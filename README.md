@@ -45,7 +45,7 @@ QUAN_UX/Figma (prototipos)
 formulário:https://docs.google.com/forms/d/e/1FAIpQLSfYbl65s8ald_SqOTDahf0aVYFBCj7OLqQEOeL2nx4PAUVIOg/viewform
 
 frames:
-:https://github.com/Mary-Ana-Carvalhais-Carneiro/Interdisciplina-1.wiki.git
+https://github.com/Mary-Ana-Carvalhais-Carneiro/Interdisciplina-1.wiki.git
 
 
 
