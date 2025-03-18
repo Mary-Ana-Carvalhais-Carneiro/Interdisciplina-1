@@ -1,9 +1,13 @@
-# Documentação do Projeto
+# Documentação do Projeto Pinhau
+Equipe:
+Mary Ana Carvalhais Carneiro
+Katia Dhaem
 
 ## 1. Identificação
 a. *Identidade visual do projeto*  
 b. *Redes sociais do projeto*  
 c. *Organização da Equipe* (papel, responsabilidade dos membros da equipe e forma de comunicação)  
+
 d. *Data de criação do projeto*  
 
 ## 2. Concepção
